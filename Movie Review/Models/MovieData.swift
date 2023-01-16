@@ -8,6 +8,7 @@
 import Foundation
 
 struct MovieData: Codable {
+       
     
     var rating: Float64!
     var id: Int64!
